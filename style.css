@@ -118,3 +118,7 @@ body {
 .example a:hover {
   color: var(--blue);
 }
+.error{
+  margin-top: 50px;
+  text-align: center;
+}
